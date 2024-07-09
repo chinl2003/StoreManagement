@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "MyStore": "Server=localhost;Database=MyStore;uid=sa;pwd=12345;TrustServerCertificate=True"
+  }
+}
